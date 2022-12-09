@@ -1,0 +1,8 @@
+Corsair_SF750 183.03 80+__Platnium 750 1
+Cooler_Master_V850 159.99 80+__Gold 850 2
+Corsair_SF650 144.93 80+__Platnium 600 3
+Corsair_SF600 127.67 80+__Gold 600 4
+Silverstone_SFX 235.39 80+__Titanium 800 5
+EVGA_SuperNOVA_GM 129.99 80+__Gold 550 6
+Enermax_REVO 109.99 80+__Gold 650 7
+Fractal_Design_Ion 145.13 80+__Gold 650 8

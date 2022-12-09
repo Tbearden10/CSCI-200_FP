@@ -1,0 +1,10 @@
+Cooler_Master_NR200 129.99 4 1 W/B 1 
+Fractal_Design_Nano_S 137.75 3 1 Black 2
+Streamcom_BC1_Mini 146.27 0 0 Silver 3
+SSUPD_Meshlicious 149.99 0 0 White 4
+Fractal_Design_Torrent_Nano 129.99 1 1 W/B 5
+NZXT_H210i 109.99 1 1 White 6
+Azza_Pyramid 339.99 1 1 Silver 7
+Phanteks_EVOLV_SHIFT 169.99 0 1 Black 8
+Jonsbo_N1 134.99 1 0 Silver 9
+HYTE_REVOLT_3 129.99 0 0 Black 10

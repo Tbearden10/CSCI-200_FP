@@ -1,0 +1,8 @@
+Corsair_iCUE_SP120_3pk 69.99 120 Black/White 1500 47.7 28 1 1
+Cooler_Master_MF_Halo_3pk 64.98 120 Black 1800 47.2 30 1 2
+Deepcool_CF_3pk 89.99 120 Black 1500 56.5 27 1 3
+NZXT_F120_3pk 89.99 120 White 1800 50.2 27.5 1 4
+Corsair_SP120_2pk 40.67 120 Black 1450 37.85 23 0 5
+Enermax_Squa_3pk 39.99 120 White 1500 68.27 23 1 6
+Noctua_A12x25_PWM 31.90 120 Brown 2000 60.1 22.6 0 7
+Noctua_A12_Chromax 32.90 120 Black 2000 60.09 22.6 0 8

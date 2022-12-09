@@ -1,0 +1,8 @@
+G.Skill_Trident_Z5 444.99 DDR5-6000 64 2 32 1 1
+Corsair_Vengeance 152.99 DDR5-5200 32 2 16 1 2
+Corsair_Dominator_Platnium 409.99 DDR5-5600 32 2 16 1 3
+G.Skill_Ripjaws_S5 369.99 DDR5-6000 64 2 32 0 4
+Kingston_FURY_Beast 139.78 DDR5-6000 16 2 8 1 5
+Crucial_Ballistix 136.21 DDR4-3200 32 2 16 0 6
+G.Skill_Trident_Z_Royal 139.99 DDR4-3600 32 2 16 0 7
+Corsair_Vengeance_RGB 214.99 DDR5-6000 32 2 16 1 8

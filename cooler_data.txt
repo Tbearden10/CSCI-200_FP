@@ -1,0 +1,10 @@
+Noctua_NH-D15_Chromax 114.94 Stack 165 140 0 Black 1
+Scythe_Fuma_2 65.98 Stack 154 120 0 Silver 2
+Arctic_LF2 116.89 AIO 53 280 0 Black 3
+Deepcool_AK620 70.98 Stack 160 120 0 White 4
+Corsair_iCUE_H100i 139.38 AIO 56 240 1 Black 5
+EK_AIO 96.99 AIO 53 240 0 Black 6
+be_quiet!_Dark_Rock_4 74.90 Stack 159 135 0 Black 7
+NZXT_Kraken_X53 143.99 AIO 50 240 1 Black 8
+Noctua_NH-L12S 59.95 Stack 70 120 0 Silver 9
+Noctua_NH-P1 114.76 Stack 158 0 0 Silver 10
