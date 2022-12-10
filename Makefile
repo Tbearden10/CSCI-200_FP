@@ -1,7 +1,4 @@
-# A line starting with a hash is a comment, we'll build up
-# the below example
- 
-TARGET = main
+TARGET = a
 SRC_FILES = main.cpp build.cpp part.cpp
 
 # DO NOT EDIT BELOW HERE

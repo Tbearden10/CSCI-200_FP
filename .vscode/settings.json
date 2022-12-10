@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "name": "Defaut",
+            "makeArgs": []
+        },
+        {
+            "name": "Print make version",
+            "makeArgs": ["--version"]
+        }
+    ]
+}
